@@ -23,10 +23,7 @@ $ cd Restaurant_list
 ```
 3. 安裝npm套件
 ```js
-$ npm i express //安裝Express
-```
-```js
-$ npm i express-handlebars@3.0.0 //安裝express-handlebars 3.0.0版本
+$ npm i 
 ```
 4. 啟動Express
 ```js
