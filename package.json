@@ -11,9 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.15.4",
     "express": "^4.17.2",
-    "express-handlebars": "^3.0.0",
-    "font-awesome": "^4.7.0"
+    "express-handlebars": "^3.0.0"
   }
 }
